@@ -1,0 +1,10 @@
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\bin\Debug\SquareEyes.exe.config
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\bin\Debug\SquareEyes.exe
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\bin\Debug\SquareEyes.pdb
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\obj\Debug\SquareEyes.csprojAssemblyReference.cache
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\obj\Debug\SquareEyes.Properties.Resources.resources
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\obj\Debug\SquareEyes.SquareEyes.resources
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\obj\Debug\SquareEyes.csproj.GenerateResource.cache
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\obj\Debug\SquareEyes.csproj.CoreCompileInputs.cache
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\obj\Debug\SquareEyes.exe
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\obj\Debug\SquareEyes.pdb

@@ -1,0 +1,9 @@
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\bin\Release\SquareEyes.exe.config
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\bin\Release\SquareEyes.exe
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\bin\Release\SquareEyes.pdb
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\obj\Release\SquareEyes.Properties.Resources.resources
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\obj\Release\SquareEyes.SquareEyes.resources
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\obj\Release\SquareEyes.csproj.GenerateResource.cache
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\obj\Release\SquareEyes.csproj.CoreCompileInputs.cache
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\obj\Release\SquareEyes.exe
+C:\Users\Chaz\source\repos\SquareEyes\SquareEyes\obj\Release\SquareEyes.pdb
